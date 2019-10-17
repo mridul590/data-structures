@@ -1,8 +1,9 @@
 #include <stdio.h>
+#include<conio.h>
 #include <stdlib.h>
 #include "queue.h"
 
-int main()
+main main()
 {
     // Declare a queue type
     queue myqueue;
@@ -35,5 +36,5 @@ int main()
      }
 
     // To Do : Add test for other types of element for queue
-    return 0;
+    getch();
 }
